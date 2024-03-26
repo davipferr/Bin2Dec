@@ -2,7 +2,7 @@
 
 ## :open_book: About 
 <p align="left">
-Esse repositório foi criado com o objetivo de testar conhecimentos básicos de programação. 
+Esse repositório foi criado com o objetivo de aprimorar meus conhecimentos básicos em programação. 
 </p>
 
 ## 🏄‍♂️ Quick Start
